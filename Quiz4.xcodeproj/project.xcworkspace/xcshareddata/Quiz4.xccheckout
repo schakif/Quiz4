@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>5C364C88-E727-4984-A934-793E7C05EE32</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Quiz4</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>CD1677A7-54C8-4A78-84B6-D529557F325B</key>
+		<string>https://github.com/schakif/Quiz4.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Quiz4.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>CD1677A7-54C8-4A78-84B6-D529557F325B</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/schakif/Quiz4.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>CD1677A7-54C8-4A78-84B6-D529557F325B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>CD1677A7-54C8-4A78-84B6-D529557F325B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Quiz4</string>
+		</dict>
+	</array>
+</dict>
+</plist>
